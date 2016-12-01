@@ -13,6 +13,7 @@ typedef struct{
 void prueba();
 void inicializar_juego(juego&);
 void imprimir_juego(juego);
+void insertar_casilla_al_azar(juego&);
 
 
 #endif // 2048CPP_H_INCLUDED
